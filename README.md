@@ -1,6 +1,6 @@
 # wtd
 
-Open Windows Terminal from Windows Explorer address bar in the current path
+Open Windows Terminal from Windows Explorer's address bar in the current path
 
 ## Install
 
@@ -8,6 +8,6 @@ Open Windows Terminal from Windows Explorer address bar in the current path
 go install github.com/DevelopersCommunity/wtd
 ```
 
-## Run
+## Usage
 
 Type **wtd** into the Windows Explorer's address bar and press **ENTER**.

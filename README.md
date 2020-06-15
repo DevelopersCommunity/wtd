@@ -2,7 +2,7 @@
 
 Open Windows Terminal from Windows Explorer's address bar in the current working directory.
 
-Shortcut to the workaround described at https://github.com/microsoft/terminal/issues/878#issuecomment-579508860.
+Shortcut to the workaround described at [microsoft/terminal#878](https://github.com/microsoft/terminal/issues/878#issuecomment-579508860).
 
 ## Install
 

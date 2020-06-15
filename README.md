@@ -12,4 +12,4 @@ go install github.com/DevelopersCommunity/wtd
 
 ## Usage
 
-Type **wtd** into the Windows Explorer's address bar and press **ENTER**.
+Type `wtd` into the Windows Explorer's address bar and press <kbd>ENTER</kbd>.
